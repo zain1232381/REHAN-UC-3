@@ -1,0 +1,27 @@
+{
+    "name": "CARDER PUBG UC Store",
+    "short_name": "CARDER UC",
+    "description": "Buy PUBG UC instantly via WhatsApp. Trusted, fast delivery. 10k–80k UC.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a0a0a",
+    "theme_color": "#ffcc00",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": ["shopping", "games"],
+    "lang": "en",
+    "scope": "/"
+}
